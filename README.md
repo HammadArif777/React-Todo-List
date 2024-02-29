@@ -1,8 +1,10 @@
-# React + Vite
+# React To Do List 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+  Hey Fellas! In this project, I have done my practice of state management and the core concepts of React such as passing props and functions in a very easy way.
+</p>
 
-Currently, two official plugins are available:
+<p>
+  For the styling part, I have used Tailwind CSS which is very easy to use and saves a lot of time to style components.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
